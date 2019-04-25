@@ -1,0 +1,3 @@
+rootProject.name = 'jordans_test_app_2737'
+
+include ':app'
